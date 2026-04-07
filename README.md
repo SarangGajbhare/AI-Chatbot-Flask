@@ -19,7 +19,7 @@ It allows users to interact through a web interface, generates intelligent respo
 
 ## 🛠️ Tech Stack
 - **Backend:** Python, Flask  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML  
 - **Database:** MongoDB  
 - **API:** OpenAI API  
 
