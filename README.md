@@ -32,7 +32,6 @@ AI-Chatbot-Flask/
 ├── app.py
 ├── templates/
 │ └── index.html
-├── requirements.txt
 └── README.md
 
 
